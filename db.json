@@ -1,13 +1,6 @@
 {
   "stocks": [
     {
-      "id": 1,
-      "ticker": "GOOG",
-      "name": "Google",
-      "type": "Tech",
-      "price": 1194.8
-    },
-    {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
